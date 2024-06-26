@@ -3,8 +3,8 @@
 #include <ArduinoJson.h>
 
 // Wi-Fi credentials
-const char *ssid = "CEASAR";
-const char *password = "V3ryN1ce!";
+const char *ssid = "Robert";
+const char *password = "Kode1234";
 
 // Web server on port 6942
 ESP8266WebServer server(6942);
@@ -28,8 +28,12 @@ void setup() {
 
   if (WiFi.status() == WL_CONNECTED) {
     Serial.println("DEBUG: Connected to Wi-Fi");
+
     Serial.println("DEBUG: IP Address: ");
     Serial.println(WiFi.localIP());
+
+    Serial.println("DEBUG: Port: ");
+    Serial.println(debugServer.port());
   } else {
     Serial.println("DEBUG: Failed to connect to Wi-Fi");
     Serial.println("DEBUG: Wi-Fi Status Code: ");
@@ -39,7 +43,7 @@ void setup() {
 
   debugServer.begin(); // Start debugging server
 
-  server.on("/update", HTTP_POST, []() {
+  server.on("/peter", HTTP_POST, []() {
     if (server.hasArg("plain") == false) {
       server.send(204, "text/plain", "Body not received");
       if (debugClient) {

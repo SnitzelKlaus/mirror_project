@@ -1,0 +1,114 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Code\\mirror_project\\CommandMatrix\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F1308C-B086-495E-8AA9-3435E9FDF0CB}|CommandMatrix\\CommandMatrix.csproj|c:\\code\\mirror_project\\commandmatrix\\commandmatrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3F1308C-B086-495E-8AA9-3435E9FDF0CB}|CommandMatrix\\CommandMatrix.csproj|solutionrelative:commandmatrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F1308C-B086-495E-8AA9-3435E9FDF0CB}|CommandMatrix\\CommandMatrix.csproj|c:\\code\\mirror_project\\commandmatrix\\commandmatrix\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F3F1308C-B086-495E-8AA9-3435E9FDF0CB}|CommandMatrix\\CommandMatrix.csproj|solutionrelative:commandmatrix\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F1308C-B086-495E-8AA9-3435E9FDF0CB}|CommandMatrix\\CommandMatrix.csproj|c:\\code\\mirror_project\\commandmatrix\\commandmatrix\\commandmatrix.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{F3F1308C-B086-495E-8AA9-3435E9FDF0CB}|CommandMatrix\\CommandMatrix.csproj|solutionrelative:commandmatrix\\commandmatrix.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F1308C-B086-495E-8AA9-3435E9FDF0CB}|CommandMatrix\\CommandMatrix.csproj|c:\\code\\mirror_project\\commandmatrix\\commandmatrix\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F3F1308C-B086-495E-8AA9-3435E9FDF0CB}|CommandMatrix\\CommandMatrix.csproj|solutionrelative:commandmatrix\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Code\\mirror_project\\CommandMatrix\\CommandMatrix\\Program.cs",
+              "RelativeDocumentMoniker": "CommandMatrix\\Program.cs",
+              "ToolTip": "C:\\Code\\mirror_project\\CommandMatrix\\CommandMatrix\\Program.cs",
+              "RelativeToolTip": "CommandMatrix\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T21:55:14.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1894142962:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Code\\mirror_project\\CommandMatrix\\CommandMatrix\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CommandMatrix\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Code\\mirror_project\\CommandMatrix\\CommandMatrix\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CommandMatrix\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-16T21:56:31.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CommandMatrix.http",
+              "DocumentMoniker": "C:\\Code\\mirror_project\\CommandMatrix\\CommandMatrix\\CommandMatrix.http",
+              "RelativeDocumentMoniker": "CommandMatrix\\CommandMatrix.http",
+              "ToolTip": "C:\\Code\\mirror_project\\CommandMatrix\\CommandMatrix\\CommandMatrix.http",
+              "RelativeToolTip": "CommandMatrix\\CommandMatrix.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-05-16T21:55:34.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Code\\mirror_project\\CommandMatrix\\CommandMatrix\\appsettings.json",
+              "RelativeDocumentMoniker": "CommandMatrix\\appsettings.json",
+              "ToolTip": "C:\\Code\\mirror_project\\CommandMatrix\\CommandMatrix\\appsettings.json",
+              "RelativeToolTip": "CommandMatrix\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-16T21:55:31.085Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 410,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

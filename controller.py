@@ -113,10 +113,11 @@ if __name__ == "__main__":
     dualsense = pydualsense()
     dualsense.init()
 
-    arduino_url = "http://172.20.10.13:6942"
+    arduino_url = "http://192.168.1.19:6942"
 
     # Clears the terminal
     print("\033c")
+
 
     shared_data = {
         'left_stick_x': 0,
@@ -137,12 +138,12 @@ if __name__ == "__main__":
 
     controller_thread.start()
     sender_thread.start()
-    printer_thread.start()
+    #printer_thread.start()
 
     controller_thread.join()
     stop_event.set()  # Signals all threads to stop (stops onced circle is pressed)
     
     sender_thread.join()
-    printer_thread.join()
+    #printer_thread.join()
     
     dualsense.close()
